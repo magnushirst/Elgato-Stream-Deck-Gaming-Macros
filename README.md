@@ -1,10 +1,8 @@
 # The project goals
 
-Provide a list of macros and programs to make life easier
+Provide a list of macros and programs to make gaming and every day use a little easier
 
 Possible macros:
-
-
 
 ![alt](icons/game-volume-increase.png) Increae volume of currect game (or any application) 
 
