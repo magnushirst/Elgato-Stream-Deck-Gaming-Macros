@@ -3,18 +3,27 @@
 Provide a list of macros and programs to make life easier
 
 Possible macros:
-  * Increae volume of currect game (or any application)
-  * Decrease volume of currect game (or any application)
-  * Toggle muting of currect game (or any application)
-  * Increae volume of Discord
-  * Decrease volume of Discord
-  * Toggle muting of Discord
-  * Toggle muting of Discord
+
+
+
+![alt](icons/game-volume-increase.png) Increae volume of currect game (or any application) 
+
+![alt](icons/game-volume-decrease.png) Decrease volume of currect game (or any application)
+
+![alt](icons/game-volume-mute.png) Toggle muting of currect game (or any application)
+
+![alt](icons/discord-volume-increase-white.png) Increae volume of Discord
+
+![alt](icons/discord-volume-decrease-white.png) Decrease volume of Discord
+
+![alt](icons/discord-volume-mute-white.png) Toggle muting of Discord
+
   * Switch default sound to speakers
   * Switch default sound to headphones
-  * Start Recording with Nvidia
-  * Stop Recording with Nvidia
-  * Record last X minutes with Nvidia (Use whatever the user has set)
+  
+![alt](icons/nvidia-record.png) Start/Stop Recording with Nvidia
+
+![alt](icons/nvidia-shadowplay.png) Record last X minutes with Nvidia (Use whatever the user has set)
 
 ![Elgato Steam Deck](https://m.media-amazon.com/images/S/aplus-media/vc/1a63c827-959d-43e8-b20b-8925bd1d3752.jpg)
 
