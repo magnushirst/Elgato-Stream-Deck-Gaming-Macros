@@ -23,4 +23,4 @@ Possible macros:
   * http://www.nirsoft.net/utils/nircmd.html
   * https://autohotkey.com/ 
   * https://www.elgato.com/en/gaming/stream-deck
-
+  * https://github.com/WElRD/StreamDeckCore - Maybe we can get some gif icons too!
