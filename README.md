@@ -16,6 +16,7 @@ Possible macros:
   * Stop Recording with Nvidia
   * Record last X minutes with Nvidia (Use whatever the user has set)
 
+![Elgato Steam Deck](https://m.media-amazon.com/images/S/aplus-media/vc/1a63c827-959d-43e8-b20b-8925bd1d3752.jpg)
 
 
 3rd party projects which may be useful:
