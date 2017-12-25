@@ -18,8 +18,9 @@ Possible macros:
 
 ![alt](icons/discord-volume-mute-white.png) Toggle muting of Discord
 
-  * Switch default sound to speakers
-  * Switch default sound to headphones
+![alt](icons/speakers.png) Switch default sound to speakers
+
+![alt](icons/headphones.png) Switch default sound to headphones
   
 ![alt](icons/nvidia-record.png) Start/Stop Recording with Nvidia
 
