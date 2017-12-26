@@ -24,11 +24,11 @@ Possible macros:
 
 ![alt](icons/nvidia-shadowplay.png) Record last X minutes with Nvidia (Use whatever the user has set)
 
-Eco Mode - Lower Clock speed and RPM
+![alt](icons/gauge-low.png) Eco Mode - Lower Clock speed and RPM
 
-Normal Mode - Defaults
+![alt](icons/gauge-high.png) High Performace Mode - Turbo Mode OC, Fans on full
 
-High Performace Mode - Turbo Mode OC, Fans on full
+![alt](icons/gauge-medium.png) Normal Mode - Defaults
 
 Plex Server
 
@@ -44,7 +44,7 @@ Reboot
 
 Shutdown
 
-Housekeeping (Close non-essential services)
+Housekeeping (Kill non-essential services)
 
 Spotify start playlist
 
