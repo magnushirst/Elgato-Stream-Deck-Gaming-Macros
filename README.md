@@ -24,6 +24,30 @@ Possible macros:
 
 ![alt](icons/nvidia-shadowplay.png) Record last X minutes with Nvidia (Use whatever the user has set)
 
+Eco Mode - Lower Clock speed and RPM
+
+Normal Mode - Defaults
+
+High Performace Mode - Turbo Mode OC, Fans on full
+
+Plex Server
+
+Plex Client
+
+Utorrent
+
+Snippy
+
+Open VPN Profiles (Build, Dev, PPE, Prod)
+
+Reboot
+
+Shutdown
+
+Housekeeping (Close non-essential services)
+
+Spotify start playlist
+
 ![Elgato Steam Deck](https://m.media-amazon.com/images/S/aplus-media/vc/1a63c827-959d-43e8-b20b-8925bd1d3752.jpg)
 
 
