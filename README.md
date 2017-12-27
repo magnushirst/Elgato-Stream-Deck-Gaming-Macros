@@ -30,23 +30,21 @@ Possible macros:
 
 ![alt](icons/gauge-medium.png) Normal Mode - Defaults
 
-Plex Server
+![alt](icons/service-plex.png) Plex Server Or Client
 
-Plex Client
+![alt](icons/service-utorrent.png) Utorrent
 
-Utorrent
+![alt](icons/screenshot.png) Snippy
 
-Snippy
+![alt](icons/service-vpn.png) Open VPN Profiles (Build, Dev, PPE, Prod)
 
-Open VPN Profiles (Build, Dev, PPE, Prod)
+![alt](icons/power-blue.png) Reboot
 
-Reboot
+![alt](icons/power-red.png) Shutdown
 
-Shutdown
+![alt](icons/cleanup.png) Housekeeping (Kill non-essential services)
 
-Housekeeping (Kill non-essential services)
-
-Spotify start playlist
+![alt](icons/service-spotify.png) Spotify start playlist
 
 ![Elgato Steam Deck](https://m.media-amazon.com/images/S/aplus-media/vc/1a63c827-959d-43e8-b20b-8925bd1d3752.jpg)
 
