@@ -36,14 +36,14 @@ f20:: ; Switch audio output to speakers
 	Run, SoundVolumeView.exe /SetDefault "High Definition Audio Device"
 Return
 
-f21:: ;  Toggle mute of the current program
+f21:: ;  Toggle mute of the Discord App
     Run, SoundVolumeView.exe /Switch "Discord"
 Return
 
-f22:: ; Lower the volume of the current program
+f22:: ; Lower the volume of the Discord App
     Run, SoundVolumeView.exe /ChangeVolume "Discord" -10
 Return
 
-f23:: ; Increase the volume of the current program
+f23:: ; Increase the volume of the Discord App
     Run, SoundVolumeView.exe /ChangeVolume "Discord" +10
 Return
